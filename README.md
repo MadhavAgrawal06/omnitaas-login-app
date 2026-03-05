@@ -63,9 +63,6 @@ backend/
 ├── package.json
 └── node_modules/
 
-### Frontend
-
-```text
 frontend/
 │
 ├── public/
