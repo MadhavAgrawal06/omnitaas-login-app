@@ -75,28 +75,26 @@ frontend/
 ├── package.json
 └── node_modules/
 ```
-
 ---
 
-Running the Project Locally
-Run Backend
-cd backend
-npm install
-npm start
+## Running the Project Locally
 
-Backend will run at:
-http://localhost:5000
+#
 
-Run Frontend
+Backend will run at: http://localhost:5000
+
+### Frontend
+
 cd frontend
 npm install
 npm start
 
-Frontend will run at:
-http://localhost:3000
+Frontend will run at: http://localhost:3000
 
-Author
+---
 
-Madhav Agrawal
-Full Stack Developer
+## Author
+
+**Madhav Agrawal**  
+Full Stack Developer  
 React | Java | Spring Boot
