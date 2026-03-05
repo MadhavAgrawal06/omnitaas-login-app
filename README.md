@@ -28,8 +28,10 @@ If the credentials are invalid, an **error message** is displayed.
 
 ## Live Deployment
 
-- **Frontend:** [Live Application](https://your-frontend-url.com)  
-- **Backend API:** [API Server](https://your-backend-url.com)
+- **Frontend:** https://omnitaas-login-app.netlify.app/ 
+- **Backend API:** https://omnitaas-login-app-j8zl.onrender.com  
+
+> ⚠️ Note: The backend API is hosted on a free tier service, so it may take **30–50 seconds to wake up** on the first request.
 
 ---
 

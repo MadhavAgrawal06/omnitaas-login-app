@@ -83,6 +83,10 @@ function Login() {
             Login
           </button>
 
+          <p className="text-muted mt-2" style={{fontSize:"0.9rem"}}>
+                ⚠️ Note: The backend runs on a free tier and may take 30–50 seconds to wake up on the first login request.
+          </p>
+
         </form>
 
         {error && (
