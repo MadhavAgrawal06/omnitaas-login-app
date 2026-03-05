@@ -79,29 +79,22 @@ frontend/
 
 ---
 
-## Running the Project Locally
+## ⚙️ Running the Project Locally
 
 ### Run Backend
-
 ```bash
 cd backend
 npm install
 npm start
-
 Backend will run at: http://localhost:5000
 
-### Frontend
-
+Run Frontend
+Bash
 cd frontend
 npm install
 npm start
-
 Frontend will run at: http://localhost:3000
 
----
-
-## Author
-
-**Madhav Agrawal**  
-Full Stack Developer  
-React | Java | Spring Boot
+👨‍💻 Author
+Madhav Agrawal Full Stack Developer
+Skills: React | Java | Spring Boot
