@@ -74,6 +74,7 @@ frontend/
 │
 ├── package.json
 └── node_modules/
+```
 
 ---
 
