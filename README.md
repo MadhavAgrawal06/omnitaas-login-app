@@ -79,11 +79,15 @@ frontend/
 
 ## Running the Project Locally
 
-#
+### Run Backend
+
+cd backend
+npm install
+npm start
 
 Backend will run at: http://localhost:5000
 
-### Frontend
+### Run Frontend
 
 cd frontend
 npm install
