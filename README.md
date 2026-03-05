@@ -98,3 +98,14 @@ Frontend will run at: http://localhost:3000
 👨‍💻 Author
 Madhav Agrawal Full Stack Developer
 Skills: React | Java | Spring Boot
+
+### Frontend
+- React (Functional Components & Hooks)
+- React Router DOM
+- Axios
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- CORS
