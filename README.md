@@ -54,8 +54,6 @@ If the credentials are invalid, an **error message** is displayed.
 
 ## Project Structure
 
-### Backend
-
 ```text
 backend/
 │
@@ -79,33 +77,25 @@ frontend/
 
 ---
 
-## ⚙️ Running the Project Locally
-
-### Run Backend
-```bash
+Running the Project Locally
+Run Backend
 cd backend
 npm install
 npm start
-Backend will run at: http://localhost:5000
+
+Backend will run at:
+http://localhost:5000
 
 Run Frontend
-Bash
 cd frontend
 npm install
 npm start
-Frontend will run at: http://localhost:3000
 
-👨‍💻 Author
-Madhav Agrawal Full Stack Developer
-Skills: React | Java | Spring Boot
+Frontend will run at:
+http://localhost:3000
 
-### Frontend
-- React (Functional Components & Hooks)
-- React Router DOM
-- Axios
-- Bootstrap
+Author
 
-### Backend
-- Node.js
-- Express.js
-- CORS
+Madhav Agrawal
+Full Stack Developer
+React | Java | Spring Boot
